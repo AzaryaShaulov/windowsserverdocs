@@ -58,11 +58,11 @@ The roadmap is designed to maximize the use of Microsoft technologies that you a
 
 The roadmap of Microsoft recommendations is broken into 3 phases:
 
-* [Phase 1: First 30 days]()
+* [Phase 1: First 30 days](### Phase 1: Quick wins with minimal operational complexity)
    * Quick wins with meaningful positive impact.
-* [Phase 2: 90 days]()
+* [Phase 2: 90 days](### Phase 2: Significant incremental improvements)
    * Significant incremental improvements.
-* [Phase 3: Ongoing]()
+* [Phase 3: Ongoing](### 3. Administrative workstations)
    * Security improvement and sustainment.
 
 The roadmap is prioritized to schedule the most effective and the quickest implementations first based on our experiences with these attacks and solution implementation. 
